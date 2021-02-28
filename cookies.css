@@ -1,0 +1,21 @@
+body .ConfirmCookie__dialog {
+  background-color: #100803;
+}
+body .ConfirmCookie__message_paragraph {
+  line-height: 150%;
+}
+body .ConfirmCookie__details-link,
+body .ConfirmCookie__details-link:link,
+body .ConfirmCookie__details-link:visited {
+  text-decoration: none;
+}
+body .ConfirmCookie__details-link:focus,
+body .ConfirmCookie__details-link:hover {
+  text-decoration: underline;
+}
+body .ConfirmCookie__agree-button {
+  padding-left: 30px;
+  padding-right: 30px;
+  border-width: 1px;
+  border-radius: 4px;
+}
