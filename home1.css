@@ -329,7 +329,7 @@ h4 {
   color: #fff;
 }
 .btn--orange {
-  background-color: #ffb806;
+  background-color: #06cdff;
   color: #100803;
 }
 .btn--black-white,
@@ -346,14 +346,14 @@ h4 {
   color: #100803;
 }
 .btn--black-orange {
-  background-color: #100803;
+  background-color: #06cdff;
   color: #fff;
 }
 .btn--black-orange:active,
 .btn--black-orange:focus,
 .btn--black-orange:hover {
-  background-color: #ffb806;
-  color: #100803;
+  background-color: #0a06ff;
+  color: #06cdff;
 }
 .select,
 select {
